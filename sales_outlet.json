@@ -1,0 +1,266 @@
+[
+  {
+    "kota": "BATAM",
+    "hnatotal": 1365000
+  },
+  {
+    "kota": "JAKARTA SELATAN",
+    "hnatotal": -1020000
+  },
+  {
+    "kota": "JAMBI",
+    "hnatotal": 1050000
+  },
+  {
+    "kota": "KLATEN",
+    "hnatotal": 3400000
+  },
+  {
+    "kota": "KOTA MOJOKERTO",
+    "hnatotal": 1440000
+  },
+  {
+    "kota": "PEMATANG SIANTAR",
+    "hnatotal": 8400000
+  },
+  {
+    "kota": "WONOSOBO",
+    "hnatotal": 480000
+  },
+  {
+    "kota": "BANDAR LAMPUNG",
+    "hnatotal": 4825000
+  },
+  {
+    "kota": "BIREUEN",
+    "hnatotal": 1500000
+  },
+  {
+    "kota": "KOTA JAYAPURA",
+    "hnatotal": 2640000
+  },
+  {
+    "kota": "MEDAN",
+    "hnatotal": 3980000
+  },
+  {
+    "kota": "PANGKALANBUN",
+    "hnatotal": 300000
+  },
+  {
+    "kota": "PRINGSEWU",
+    "hnatotal": -1050000
+  },
+  {
+    "kota": "KAB. SIKKA",
+    "hnatotal": 1400000
+  },
+  {
+    "kota": "PURBALINGGA",
+    "hnatotal": 110000
+  },
+  {
+    "kota": "SUKAJAWA",
+    "hnatotal": 90000
+  },
+  {
+    "kota": "SUMEDANG",
+    "hnatotal": 262000
+  },
+  {
+    "kota": "SURAKARTA",
+    "hnatotal": 17716200
+  },
+  {
+    "kota": "TANGERANG SELATAN",
+    "hnatotal": 225000
+  },
+  {
+    "kota": "KOTA AMBON",
+    "hnatotal": 350000
+  },
+  {
+    "kota": "KUPANG",
+    "hnatotal": 450000
+  },
+  {
+    "kota": "MEMPAWAH",
+    "hnatotal": 900000
+  },
+  {
+    "kota": "PADANG",
+    "hnatotal": 41069670
+  },
+  {
+    "kota": "PANGKALAN BUN",
+    "hnatotal": 1740000
+  },
+  {
+    "kota": "SENDANG AGUNG",
+    "hnatotal": 130000
+  },
+  {
+    "kota": "TAPAK TUAN",
+    "hnatotal": 750000
+  },
+  {
+    "kota": "TEGAL",
+    "hnatotal": 425000
+  },
+  {
+    "kota": "BADUNG",
+    "hnatotal": 925000
+  },
+  {
+    "kota": "BANYUWANGI",
+    "hnatotal": 2045000
+  },
+  {
+    "kota": "DEPOK",
+    "hnatotal": 10065000
+  },
+  {
+    "kota": "GOWA",
+    "hnatotal": 55000
+  },
+  {
+    "kota": "KAB. KARAWANG",
+    "hnatotal": 260000
+  },
+  {
+    "kota": "KAB. KARO",
+    "hnatotal": 300000
+  },
+  {
+    "kota": "KAB. MIMIKA",
+    "hnatotal": 18000000
+  },
+  {
+    "kota": "KOTA GORONTALO",
+    "hnatotal": 730000
+  },
+  {
+    "kota": "KOTA MATARAM",
+    "hnatotal": 520000
+  },
+  {
+    "kota": "KOTA PALEMBANG",
+    "hnatotal": 410000
+  },
+  {
+    "kota": "KOTA SORONG",
+    "hnatotal": 1635000
+  },
+  {
+    "kota": "MA. BUNGO",
+    "hnatotal": 450000
+  },
+  {
+    "kota": "TANJUNG PINANG",
+    "hnatotal": 570000
+  },
+  {
+    "kota": "YOGYAKARTA",
+    "hnatotal": 14400000
+  },
+  {
+    "kota": "AMBARAWA",
+    "hnatotal": 34768500
+  },
+  {
+    "kota": "BANDUNG",
+    "hnatotal": 39382692
+  },
+  {
+    "kota": "BATURAJA",
+    "hnatotal": 1350000
+  },
+  {
+    "kota": "BOGOR",
+    "hnatotal": 6900000
+  },
+  {
+    "kota": "KAB. JOMBANG",
+    "hnatotal": 410000
+  },
+  {
+    "kota": "KOTA BATAM",
+    "hnatotal": 650000
+  },
+  {
+    "kota": "PURWAKARTA",
+    "hnatotal": 1110000
+  },
+  {
+    "kota": "BANJARMASIN",
+    "hnatotal": 220000
+  },
+  {
+    "kota": "BIMA",
+    "hnatotal": 1080000
+  },
+  {
+    "kota": "JAKARTA BARAT",
+    "hnatotal": 16112000
+  },
+  {
+    "kota": "JAKARTA TIMUR",
+    "hnatotal": 46092000
+  },
+  {
+    "kota": "KAB. KEPULAUAN TANIMBAR",
+    "hnatotal": 7700000
+  },
+  {
+    "kota": "KOTA SURAKARTA",
+    "hnatotal": 49750000
+  },
+  {
+    "kota": "MALANG",
+    "hnatotal": 2395000
+  },
+  {
+    "kota": "Murung Pudak Tanjung",
+    "hnatotal": 1350000
+  },
+  {
+    "kota": "PALEMBANG",
+    "hnatotal": 57124900
+  },
+  {
+    "kota": "JAKARTA PUSAT",
+    "hnatotal": 2660000
+  },
+  {
+    "kota": "JAKARTA UTARA",
+    "hnatotal": 1530000
+  },
+  {
+    "kota": "KAB. BANGGAI",
+    "hnatotal": 900000
+  },
+  {
+    "kota": "KAB. SUMBAWA",
+    "hnatotal": 300000
+  },
+  {
+    "kota": "KOTA BANDA ACEH",
+    "hnatotal": 1050000
+  },
+  {
+    "kota": "KOTA PALU",
+    "hnatotal": 4500000
+  },
+  {
+    "kota": "MA TEBO",
+    "hnatotal": 420000
+  },
+  {
+    "kota": "MAKASSAR",
+    "hnatotal": 21584000
+  },
+  {
+    "kota": "SUBANG",
+    "hnatotal": 1422000
+  }
+]
