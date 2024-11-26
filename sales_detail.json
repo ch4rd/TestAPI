@@ -1,0 +1,38 @@
+[
+  {
+    "tanggal": "2024-11-07T23:59:59",
+    "nomor": "058170438293",
+    "outlet": "00299",
+    "nmOutlet": "RSUP DR.MOHAMMAD HOESIN PALEMBANG",
+    "produk": "18105",
+    "nmProduk": "METACOSFAR 100",
+    "qty": 30,
+    "hna": 1020000,
+    "hnaTotal": 30600000,
+    "kota": "PALEMBANG"
+  },
+  {
+    "tanggal": "2024-11-07T23:59:59",
+    "nomor": "058170438293",
+    "outlet": "00299",
+    "nmOutlet": "RSUP DR.MOHAMMAD HOESIN PALEMBANG",
+    "produk": "18116",
+    "nmProduk": "MOXIFLOXACIN",
+    "qty": 50,
+    "hna": 89000,
+    "hnaTotal": 4450000,
+    "kota": "PALEMBANG"
+  },
+  {
+    "tanggal": "2024-11-20T23:59:59",
+    "nomor": "058170440638",
+    "outlet": "00299",
+    "nmOutlet": "RSUP DR.MOHAMMAD HOESIN PALEMBANG",
+    "produk": "18127",
+    "nmProduk": "GABAXA",
+    "qty": 100,
+    "hna": 218919,
+    "hnaTotal": 21891900,
+    "kota": "PALEMBANG"
+  }
+]
